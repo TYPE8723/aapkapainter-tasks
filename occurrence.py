@@ -17,5 +17,5 @@ try:
     if l2:# if list has no duplicates, the new list wont be deleted.
         print('no duplication found')
 except:
-    print()
+    pass
 
